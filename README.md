@@ -12,3 +12,4 @@ Write a function to reverse a string in place.
 
 [Cafe Order Checker](https://github.com/sandix34/Interview-Cake/tree/master/Cafe-order-checker) Write a function to tell us if cafe customer orders are served in the same order they're paid for.
 
+# 2. Hashing and hash tables
